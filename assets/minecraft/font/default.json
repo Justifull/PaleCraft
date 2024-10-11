@@ -1,0 +1,148 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/helmet.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/chestplate.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/leggings.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/boots.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/sword.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/pickaxe.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/trident.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/bow.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/crosbow.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefe9"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/fishing.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\ueef1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/star.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\ueef2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/skull.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\ueef3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/mace.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\ueef4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/effects.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uDB80\uDC16\uDB80\uDC17\uDB80\uDC18\uDB80\uDC19\uDB80\uDC1A\uDB80\uDC1B\uDB80\uDC1C\uDB80\uDC1D\uDB80\uDC1E\uDB80\uDC1F\uDB80\uDC20\uDB80\uDC21\uDB80\uDC22\uDB80\uDC23\uDB80\uDC24\uDB80\uDC25\uDB80\uDC26\uDB80\uDC27\uDB80\uDC28\uDB80\uDC29\uDB80\uDC2A\uDB80\uDC2B\uDB80\uDC2C\uDB80\uDC2D\uDB80\uDC2E\uDB80\uDC2F\uDB80\uDC30\uDB80\uDC31\uDB80\uDC32\uDB80\uDC33\uDB80\uDC34\uDB80\uDC35\uDB80\uDC36"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/gamemode.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uDB80\uDC4A\uDB80\uDC4B\uDB80\uDC4C\uDB80\uDC4D\uDB80\uDC4E"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/hungry.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uDB80\uDC4F\uDB80\uDC50"
+			]
+		}
+	]
+}
