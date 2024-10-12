@@ -119,6 +119,24 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:misc/inventory.png",
+			"ascent": 15,
+			"height": 16,
+			"chars": [
+				"\ueef5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/filow.png",
+			"ascent": 11,
+			"height": 12,
+			"chars": [
+				"\ueef6"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:gui/icons/effects.png",
 			"ascent": 8,
 			"height": 9,

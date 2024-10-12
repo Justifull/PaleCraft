@@ -41,7 +41,7 @@
   "container.spectatorCantOpen": "§9Loot not generated yet§r",
   "container.upgrade.error_tooltip": "§4Item can't be upgraded this way§r",
   "container.upgrade.missing_template_tooltip": "§4Add Smithing Template§r",
-  "container.inventory": "§6[§eInv§6]§r",
+  "container.inventory": "§6\ueef5",
   "container.hopper": "",
   "container.crafting": "",
   "container.dispenser": "",
@@ -99,6 +99,7 @@
   "gui.cancel": "§4Cancel",
   "gui.stats": "Stats",
   "gui.advancements": "Achievements",
+  "gui.recipebook.search_hint": "",
 
   "chat.type.text": "§6[%s§6] §7> %s",
   "chat.type.emote": "§6* §f%s %s §6*",
@@ -386,7 +387,7 @@
   "item.durability": "§6[§r%s §7/§r %s§6]§r",
 
   "upgrade.minecraft.netherite_upgrade": "§8§lNetherite Upgrade",
-  "item.minecraft.totem_of_undying": "§c§lRed Flags",
+  "item.minecraft.totem_of_undying": "§f\ueef6",
   "item.minecraft.elytra": "§5Elytra",
   "item.minecraft.nether_star": "§5Nether Star",
 
