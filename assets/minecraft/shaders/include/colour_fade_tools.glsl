@@ -1,8 +1,6 @@
 #version 150
 
 float _fog_distance_(mat4 modelViewMat, vec3 pos, int shape) {
-    // Mojang
-    // Here for 1.18 compatability
     if (shape == 0) {
         return length((modelViewMat * vec4(pos, 1.0)).xyz);
     } else {
@@ -13,7 +11,6 @@ float _fog_distance_(mat4 modelViewMat, vec3 pos, int shape) {
 }
 
 bool roughlyEquals(vec3 colour, vec3 compare_colour) {
-    // compares if 2 colours are equal to eachother within a range of error
     float ERROR_RANGE = 0.00001;
 
     vec3 compare_lower = compare_colour - ERROR_RANGE;
