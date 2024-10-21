@@ -4,7 +4,6 @@
 §fWatching the §esun§f rise
 §fUntil the §9moon §frises.
 §fAnyone here?
-§fWatching §dHentai§f!
 §6Honey_Bottle
 §3Extraordinary§f!
 §fGET ME A §bBEACON§f!
@@ -18,7 +17,6 @@
 §f255 Blocks?
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §f§mIm fine
-§fI love Soartex!
 §cRedstone§f Powered.
 §6Bee§fs are different.
 §6Honey§f-Tastic!
@@ -33,3 +31,4 @@
 §fy -> y.§6bee§f();
 §fWhat is this : "§k??§r§f"
 §fI want to §6bee§f with you!
+§fCollect §7Bones

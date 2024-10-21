@@ -1,8 +1,8 @@
 #version 150
 
 #moj_import <fog.glsl>
-#moj_import <colour_fade_config.glsl>
-#moj_import <colour_fade_tools.glsl>
+#moj_import <config.glsl>
+#moj_import <tools.glsl>
 
 in vec3 Position;
 in vec4 Color;
