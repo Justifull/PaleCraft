@@ -168,8 +168,8 @@
 
 
 
-  "deathScreen.respawn": "§dRespawn",
-  "deathScreen.spectate": "§aSpectate",
+  "deathScreen.respawn": "Respawn",
+  "deathScreen.spectate": "Spectate",
   "deathScreen.deleteWorld": "§4Delete",
   "deathScreen.titleScreen": "Home",
   "deathScreen.score": "§aXP§f ",
@@ -334,9 +334,10 @@
   "item.durability": "§6[§r%s §7/§r %s§6]§r",
 
   "upgrade.minecraft.netherite_upgrade": "§8§lNetherite Upgrade",
-  "item.minecraft.totem_of_undying": "§6Golden Bone",
+  "item.minecraft.totem_of_undying": "§eGolden Skull",
   "item.minecraft.elytra": "§5Elytra",
   "item.minecraft.nether_star": "§5Nether Star",
+  "item.minecraft.enchanted_golden_apple": "§dNotch Apple",
 
   "item.minecraft.diamond": "§bDiamond",
   "block.minecraft.diamond_block": "§bDiamond Block",
@@ -406,6 +407,9 @@
   "item.minecraft.golden_axe": "§eGold Axe",
   "item.minecraft.golden_shovel": "§eGold Shovel",
   "item.minecraft.golden_hoe": "§eGold Hoe",
+  "item.minecraft.raw_gold": "§eRaw Gold",
+  "item.minecraft.golden_apple": "§eGolden Apple",
+  "item.minecraft.golden_carrot": "§eGolden Carrot",
 
   "item.minecraft.netherite_ingot": "§8§lNetherite Ingot",
   "block.minecraft.netherite_block": "§8§lNetherite Block",
