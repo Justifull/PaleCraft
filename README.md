@@ -1,19 +1,47 @@
-# BoneVeiled - A Minecraft Texturepack
+![Banner](banner.png)
+# A Minecraft Texturepack
+PaleCraft is inspired by the bone texture and is a Black & White styled texturepack. Most textures are still vanilla, only the ore blocks and some items are updated. I changed some coreshaders for better block and hitbox outlines and a custom XP-Number color.
 
 ## Get the Texturepack
-1. Go to [Releases](https://github.com/Justifull/BoneVeiled/releases)
-2. Download the latest `BoneVeiled-X.XX.X.zip` file
+1. Go to [Releases](https://github.com/Justifull/PaleCraft/releases)
+2. Download the latest `PaleCraft-X.XX.X.zip` file
 3. Paste the file into your `resourcepacks` folder
 
-## Find your `resourcepacks` folder
-### On Windows
-1. Go to Explorer
-2. Enter the following into the `path` field & press <kbd>⏎ Enter</kbd>:
-```bash
-%appdata%
-```
-3. Go into your `.minecraft` folder
-4. There you find it!
+## Previews
+<details>
+   <summary>Main Menu</summary>
 
-### On MacOs
-> COMING SOON..
+   ![Main Menu](preview/main_menu.png)
+</details>
+<details>
+   <summary>Pause Screen</summary>
+
+   ![Pause Screen](preview/pause_screen.png)
+</details>
+<details>
+   <summary>Survival GUIs</summary>
+
+   ![Hotbar](preview/hotbar.png)
+   ![Inventory](preview/survival_inventory.png)
+   ![Recipe Book](preview/recipe_book.png)
+</details>
+<details>
+   <summary>Creative GUIs</summary>
+
+   ![Creative Inventory](preview/creative_inventory.png)
+   ![Creative Tab](preview/creative_tab.png)
+</details>
+<details>
+   <summary>Other GUIs</summary>
+
+   ![Crafting Table](preview/crafting_table.png)
+   ![Furnace](preview/furnace.png)
+   ![Enchanting Table](preview/enchanting_table.png)
+   ![Beacon](preview/beacon.png)
+   ![Loom](preview/loom.png)
+</details>
+<details>
+   <summary>Blocks</summary>
+
+   ![Blocks](preview/blocks.png)
+</details>

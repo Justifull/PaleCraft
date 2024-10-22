@@ -4,7 +4,7 @@
 §fWatching the §esun§f rise
 §fUntil the §9moon §frises.
 §fAnyone here?
-§6Honey_Bottle
+§djustifull
 §3Extraordinary§f!
 §fGET ME A §bBEACON§f!
 §fI need §6Haste §dII
@@ -14,7 +14,7 @@
 §fIt's a GAME!
 §6§l[§e§o90%§6§l]§f bug free!
 §bSky§f is the limit!
-§f255 Blocks?
+§fOnly 255 Blocks?
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §f§mIm fine
 §cRedstone§f Powered.
@@ -32,3 +32,7 @@
 §fWhat is this : "§k??§r§f"
 §fI want to §6bee§f with you!
 §fCollect §7Bones
+§fSince 2009
+§7Pale Edition
+§7PaleCraft
+§fIm§7paling
