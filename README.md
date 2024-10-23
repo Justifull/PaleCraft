@@ -1,13 +1,12 @@
 ![Banner](display/banner.png)
 
-PaleCraft is inspired by the bone texture and is a Black & White styled<span style="display: inline;"> </span>
-
 <img src="display/skin_render.png" width="193" height="440" align="left">
-
-texturepack. Most textures are still vanilla, only the
-ore blocks and some items are updated. I changed
-some coreshaders for better block and hitbox outlines.
-and a custom XP-Number color.
+PaleCraft is inspired by the bone texture and is a
+Black & White styled texturepack. Most textures are
+still vanilla, only the ore blocks and some items
+are updated. I changed some coreshaders for better
+block and hitbox outlines. and a custom XP-Number
+color.
 
 <br>
 <br>
