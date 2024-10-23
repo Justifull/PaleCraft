@@ -2,37 +2,38 @@
 
 PaleCraft is inspired by the bone texture and is a Black & White styled<span style="display: inline;"> </span>
 
-<img src="/display/skin_render.png" width="193" height="440" align="left">
+<img src="display/skin_render.png" width="193" height="440" align="left">
 
-<div style="margin-top: -20px">
-   texturepack. Most textures are still vanilla, only the
-</div>
-<div style="margin-left: 210px">
-   ore blocks and some items are updated. I changed
-</div>
-<div style="margin-left: 220px">
-    some coreshaders for better block and hitbox outlines.
-</div>
-<div style="margin-left: 220px; margin-bottom: 350px">
-   and a custom XP-Number color.
-</div>
+texturepack. Most textures are still vanilla, only the
+ore blocks and some items are updated. I changed
+some coreshaders for better block and hitbox outlines.
+and a custom XP-Number color.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div style="text-align: center;">
     <a href="https://modrinth.com/resourcepack/palecraft" target="_blank">
         <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" class="hover-image" style="width: 100px; margin: 0 20px;">
     </a>
     <a href="https://github.com/Justifull/PaleCraft" target="_blank">
-        <img src="/display/github.png" alt="Github-Project Link" class="hover-image" style="width: 100px; margin: 0 20px;">
+        <img src="display/github.png" alt="Github-Project Link" class="hover-image" style="width: 100px; margin: 0 20px;">
     </a>
     <a href="https://de.namemc.com/profile/justifull.1" target="_blank">
-        <img src="/display/namemc.png" alt="NameMC-Profile Link" class="hover-image" style="width: 100px; margin: 0 20px;">
+        <img src="display/namemc.png" alt="NameMC-Profile Link" class="hover-image" style="width: 100px; margin: 0 20px;">
     </a>
 </div>
 
-
 <br>
 <p align="center">
-   <img src="/display/previews.png" width="268" height="50">
+   <img src="display/previews.png" width="268" height="50">
 </p>
 
 <div style="text-align: center; margin-top: -25px">
@@ -113,7 +114,7 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
 <br>
 <br>
 <p align="center">
-   <img src="/display/download.png" width="656" height="50">
+   <img src="display/download.png" width="656" height="50">
 </p>
 
 1. Go to [Releases](https://github.com/Justifull/PaleCraft/releases/latest)
