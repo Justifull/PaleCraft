@@ -121,9 +121,9 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
 3. Paste the file into your resourcepacks folder
 
 > [!TIP]
-> Your resourcepacks folder is located in your Explorer within:
+> Your `resourcepacks` folder is located in your `Explorer` within:
 >
 > ```bash
 > %appdata%
 > ```
-> and then your .minecraft folder
+> and then your `.minecraft` folder
