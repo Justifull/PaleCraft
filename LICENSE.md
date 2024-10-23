@@ -1,4 +1,4 @@
-License: **CC BY-NC 4.0**
+## License: CC BY-NC 4.0
 
 **You are free to**:
 - Share: Copy and redistribute the material in any medium or format.
