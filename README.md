@@ -45,79 +45,66 @@ color.
    <img src="display/previews.png" width="268" height="50">
 </p>
 
-<div style="text-align: center; margin-top: -25px">
-
-   _(Not every change included, just sneak peaks)_
-</div>
+<p align="center">
+Not every change included, just sneak peaks
+</p>
 
 <details>
    <summary>Title Screen</summary>
-   <div style="text-align: center">
-
-   Title Screen
-   ![Title Screen](preview/title_screen.png)
-
-   </div>
+   <p align="center">
+       Title Screen
+       <img src="preview/title_screen.png" alt="Modrinth">
+   </p>
 </details>
 <details>
    <summary>Survival GUIs</summary>
-   <div style="text-align: center">
-
-   **Hotbar**
-   ![Hotbar](preview/hotbar.png)
-   **Survival Inventory**
-   ![Survival Inventory](preview/survival_inventory.png)
-
-   </div>
+   <p align="center">
+       Hotbar
+       <img src="preview/hotbar.png" alt="Hotbar">
+       Survival Inventory
+       <img src="preview/survival_inventory.png" alt="Survival Inventory">
+   </p>
 </details>
 <details>
-   <summary>Creative GUIs</summary>
-   <div style="text-align: center">
-
-   **Creative Inventory**
-   ![Creative Inventory](preview/creative_inventory.png)
-
-   </div>
+   <summary>Creative GUI</summary>
+   <p align="center">
+       Creative Inventory
+       <img src="preview/creative_inventory.png" alt="Creative Inventory">
+   </p>
 </details>
 <details>
    <summary>Other GUIs</summary>
-   <div style="text-align: center">
-
-   **Crafting Table**
-   ![Crafting Table](preview/crafting_table.png)
-   **Chest**
-   ![Chest](preview/chest.png)
-   **Shulker Chest**
-   ![Shulker Chest](preview/shulker_chest.png)
-   **Enchanting Table**
-   ![Enchanting Table](preview/enchanting_table.png)
-   **Beacon**
-   ![Beacon](preview/beacon.png)
-
-   </div>
+   <p align="center">
+       Crafting Table
+       <img src="preview/crafting_table.png" alt="Crafting Table">
+       Chest
+       <img src="preview/chest.png" alt="Chest">
+       Shulker Chest
+       <img src="preview/shulker_chest.png" alt="Shulker Chest">
+       Enchanting Table
+       <img src="preview/enchanting_table.png" alt="Enchanting Table">
+       Beacon
+       <img src="preview/beacon.png" alt="Beacon">
+   </p>
 </details>
 <details>
    <summary>Custom Texts</summary>
-   <div style="text-align: center">
-
-   **Enchantment Text Sword**
-   ![Enchantment Text Sword](preview/enchantment_icons.png)
-   **Enchantment Text Leggings**
-   ![Enchantment Text Leggings](preview/enchantment_icons_2.png)
-
-   </div>
+   <p align="center">
+       Enchantment Text Sword
+       <img src="preview/enchantment_icons.png" alt="Enchantment Text Sword">
+       Enchantment Text Leggings
+       <img src="preview/enchantment_icons_2.png" alt="Enchantment Text Leggings">
+   </p>
 </details>
 <details>
    <summary>Blocks / Items</summary>
-   <div style="text-align: center">
-
-   **Blocks**
-   ![Blocks](preview/blocks.png)
-   **Totem Of Undying**
-   ![Totem Inventory](preview/totem_inventory.png)
-   ![Totem First person](preview/totem_first_person.png)
-
-   </div>
+   <p align="center">
+       Blocks
+       <img src="preview/blocks.png" alt="Blocks">
+       Totem Of Undying
+       <img src="preview/totem_inventory.png" alt="Totem Inventory">
+       <img src="preview/totem_first_person.png" alt="Totem First person">
+    </p>
 </details>
 
 <br>
