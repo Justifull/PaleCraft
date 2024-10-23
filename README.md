@@ -18,22 +18,16 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
 </div>
 
 <div style="text-align: center;">
-    <a href="https://modrinth.com/resourcepack/palecraft" target="_blank" style="display: inline-block; position: relative;">
-        <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" style="width: 80px; margin: 0 20px; filter: brightness(100%); transition: filter 0.3s, transform 0.3s;">
-        <span style="visibility: hidden; font-size: 14px; font-weight: 600; color: #fff; position: absolute; z-index: 1; bottom: 90%; left: 50%; transform: translateX(-50%); opacity: 0; transition: opacity 0.3s; white-space: normal; line-height: 1.2;">Modrinth</span>
+    <a href="https://modrinth.com/resourcepack/palecraft" target="_blank">
+        <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" class="hover-image" style="width: 100px; margin: 0 20px;">
     </a>
-    <style>
-        a:hover img {
-            filter: brightness(140%);
-            transform: scale(1.2);
-        }
-        a:hover span {
-            visibility: visible;
-            opacity: 1;
-        }
-    </style>
+    <a href="https://github.com/Justifull/PaleCraft" target="_blank">
+        <img src="display/github.png" alt="Github-Project Link" class="hover-image" style="width: 100px; margin: 0 20px;">
+    </a>
+    <a href="https://de.namemc.com/profile/justifull.1" target="_blank">
+        <img src="display/namemc.png" alt="NameMC-Profile Link" class="hover-image" style="width: 100px; margin: 0 20px;">
+    </a>
 </div>
-
 
 
 <br>
