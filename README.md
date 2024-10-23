@@ -30,16 +30,16 @@ and a custom XP-Number color.
 <br>
 <br>
 <div align="center">
-    <a href="https://modrinth.com/resourcepack/palecraft" target="_blank">
-        <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" class="hover-image" style="width: 100px">
+    <a href="https://modrinth.com/resourcepack/palecraft">
+        <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth" style="width: 100px">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Justifull/PaleCraft" target="_blank">
-        <img src="display/github.png" alt="Github-Project Link" class="hover-image" style="width: 100px">
+    <a href="https://github.com/Justifull/PaleCraft">
+        <img src="display/github.png" alt="Github" style="width: 100px">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://de.namemc.com/profile/justifull.1" target="_blank">
-        <img src="display/namemc.png" alt="NameMC-Profile Link" class="hover-image" style="width: 100px">
+    <a href="https://de.namemc.com/profile/justifull.1">
+        <img src="display/namemc.png" alt="NameMC" style="width: 100px">
     </a>
 </div>
 
