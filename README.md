@@ -29,11 +29,7 @@ and a custom XP-Number color.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<div style="text-align: center;">
+<div align="center">
     <a href="https://modrinth.com/resourcepack/palecraft" target="_blank">
         <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" class="hover-image" style="width: 100px; margin: 0 20px;">
     </a>
