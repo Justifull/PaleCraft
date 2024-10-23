@@ -26,9 +26,6 @@ and a custom XP-Number color.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <div align="center">
     <a href="https://modrinth.com/resourcepack/palecraft">
         <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth" style="width: 100px">
