@@ -1,8 +1,8 @@
-![Banner](/display/banner.png)
+![Banner](./display/banner.png)
 
 PaleCraft is inspired by the bone texture and is a Black & White styled<span style="display: inline;"> </span>
 
-<img src="/display/skin_render.png" width="193" height="440" align="left">
+<img src="./display/skin_render.png" width="193" height="440" align="left">
 
 <div style="margin-top: -20px">
    texturepack. Most textures are still vanilla, only the
@@ -10,28 +10,35 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
 <div style="margin-left: 210px">
    ore blocks and some items are updated. I changed
 </div>
+<div style="margin-left: 220px">
+    some coreshaders for better block and hitbox outlines.
+</div>
 <div style="margin-left: 220px; margin-bottom: 350px">
-    some coreshaders for better block and hitbox outlines and a custom XP-Number color.
+   and a custom XP-Number color.
 </div>
 
-<div style="text-align: center; position: relative;">
-    <a href="https://modrinth.com/resourcepack/palecraft" target="_blank" class="tooltip">
-        <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" class="hover-image">
-        <span class="tooltiptext">Modrinth</span>
+<div style="text-align: center;">
+    <a href="https://modrinth.com/resourcepack/palecraft" target="_blank" style="display: inline-block; position: relative;">
+        <img src="https://i.imgur.com/Wi0gG3J.png" alt="Modrinth-Project Link" style="width: 80px; margin: 0 20px; filter: brightness(100%); transition: filter 0.3s, transform 0.3s;">
+        <span style="visibility: hidden; font-size: 14px; font-weight: 600; color: #fff; position: absolute; z-index: 1; bottom: 90%; left: 50%; transform: translateX(-50%); opacity: 0; transition: opacity 0.3s; white-space: normal; line-height: 1.2;">Modrinth</span>
     </a>
-    <a href="https://github.com/Justifull/PaleCraft" target="_blank" class="tooltip">
-        <img src="/display/github.png" alt="Github-Project Link" class="hover-image">
-        <span class="tooltiptext">Github</span>
-    </a>
-    <a href="https://de.namemc.com/profile/justifull.1" target="_blank" class="tooltip">
-        <img src="/display/namemc.png" alt="NameMC-Profile Link" class="hover-image">
-        <span class="tooltiptext">NameMC</span>
-    </a>
+    <style>
+        a:hover img {
+            filter: brightness(140%);
+            transform: scale(1.2);
+        }
+        a:hover span {
+            visibility: visible;
+            opacity: 1;
+        }
+    </style>
 </div>
+
+
 
 <br>
 <p align="center">
-   <img src="/display/previews.png" width="268" height="50">
+   <img src="./display/previews.png" width="268" height="50">
 </p>
 
 <div style="text-align: center; margin-top: -25px">
@@ -44,7 +51,7 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
    <div style="text-align: center">
 
    Title Screen
-   ![Title Screen](/preview/title_screen.png)
+   ![Title Screen](./preview/title_screen.png)
 
    </div>
 </details>
@@ -53,9 +60,9 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
    <div style="text-align: center">
 
    **Hotbar**
-   ![Hotbar](/preview/hotbar.png)
+   ![Hotbar](./preview/hotbar.png)
    **Survival Inventory**
-   ![Survival Inventory](/preview/survival_inventory.png)
+   ![Survival Inventory](./preview/survival_inventory.png)
 
    </div>
 </details>
@@ -64,7 +71,7 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
    <div style="text-align: center">
 
    **Creative Inventory**
-   ![Creative Inventory](/preview/creative_inventory.png)
+   ![Creative Inventory](./preview/creative_inventory.png)
 
    </div>
 </details>
@@ -73,15 +80,15 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
    <div style="text-align: center">
 
    **Crafting Table**
-   ![Crafting Table](/preview/crafting_table.png)
+   ![Crafting Table](./preview/crafting_table.png)
    **Chest**
-   ![Chest](/preview/chest.png)
+   ![Chest](./preview/chest.png)
    **Shulker Chest**
-   ![Shulker Chest](/preview/shulker_chest.png)
+   ![Shulker Chest](./preview/shulker_chest.png)
    **Enchanting Table**
-   ![Enchanting Table](/preview/enchanting_table.png)
+   ![Enchanting Table](./preview/enchanting_table.png)
    **Beacon**
-   ![Beacon](/preview/beacon.png)
+   ![Beacon](./preview/beacon.png)
 
    </div>
 </details>
@@ -90,9 +97,9 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
    <div style="text-align: center">
 
    **Enchantment Text Sword**
-   ![Enchantment Text Sword](/preview/enchantment_icons.png)
+   ![Enchantment Text Sword](./preview/enchantment_icons.png)
    **Enchantment Text Leggings**
-   ![Enchantment Text Leggings](/preview/enchantment_icons_2.png)
+   ![Enchantment Text Leggings](./preview/enchantment_icons_2.png)
 
    </div>
 </details>
@@ -101,10 +108,10 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
    <div style="text-align: center">
 
    **Blocks**
-   ![Blocks](/preview/blocks.png)
+   ![Blocks](./preview/blocks.png)
    **Totem Of Undying**
-   ![Totem Inventory](/preview/totem_inventory.png)
-   ![Totem First person](/preview/totem_first_person.png)
+   ![Totem Inventory](./preview/totem_inventory.png)
+   ![Totem First person](./preview/totem_first_person.png)
 
    </div>
 </details>
@@ -112,7 +119,7 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
 <br>
 <br>
 <p align="center">
-   <img src="/display/download.png" width="656" height="50">
+   <img src="./display/download.png" width="656" height="50">
 </p>
 
 1. Go to [Releases](https://github.com/Justifull/PaleCraft/releases/latest)
@@ -126,43 +133,3 @@ PaleCraft is inspired by the bone texture and is a Black & White styled<span sty
 > %appdata%
 > ```
 > and then your .minecraft folder
-
-<style>
-   .hover-image {
-      width: 80px;
-      margin: 0 20px;
-      transition: transform 0.3s, filter 0.3s;
-      filter: brightness(100%);
-   }
-   
-   .hover-image:hover {
-      filter: brightness(140%);
-      transform: scale(1.2);
-   }
-
-   .tooltip {
-      position: relative;
-      display: inline-block;
-   }
-
-   .tooltiptext {
-      visibility: hidden;
-      font-size: 14px;
-      font-weight: 600;
-      color: #fff;
-      position: absolute;
-      z-index: 1;
-      bottom: 90%;
-      left: 50%;
-      transform: translateX(-50%);
-      opacity: 0;
-      transition: opacity 0.3s;
-      white-space: normal;
-      line-height: 1.2;
-   }
-
-   .tooltip:hover .tooltiptext {
-      visibility: visible;
-      opacity: 1;
-   }
-</style>
